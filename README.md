@@ -16,3 +16,6 @@
    python TraxTeamSystem.py
    ```
 2. Ve Artık Sizde Veri Kazıyabilirsiniz.
+
+
+![alt text](https://raw.githubusercontent.com/T-RaxTeam/T-RaxTeamWebScrapping/main/Resimler/TeknofestLogo.jpg)
