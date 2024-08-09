@@ -28,6 +28,6 @@ Programı başlatın.
 Hepsiburada ürün linkini ilgili alana girin.
 "Yorumları Çek" butonuna tıklayın.
 Program, yorumları çekmeye başlayacak ve süreç boyunca sizi bilgilendirecektir.
-İşlem tamamlandığında, tüm yorumlar ve analizleri "urun_yorumlari.txt" dosyasına kaydedilecektir.
+İşlem tamamlandığında, tüm yorumlar ve analizleri "yorumlar.csv" dosyasına kaydedilecektir.
 Sonuç:
 Bu program, kullanıcıların Hepsiburada ürünleri hakkındaki yorumları hızlı ve etkili bir şekilde toplamalarını ve bu yorumların duygu analizini yapmalarını sağlar. Kullanıcı dostu arayüzü ve otomatik işlevselliği sayesinde zaman kazandırır ve değerli içgörüler sunar.
